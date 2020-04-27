@@ -6,4 +6,4 @@ The description of the Luhn formula can be found at https://en.wikipedia.org/wik
 
 <strong>Usage</strong><br>
 Download and open index.html <br>
-or see https://tatianaazulay.github.io/credit-card-number-verification-luhn-algo/
+https://tatianaazulay.github.io/credit-card-number-verification-luhn-algo/
