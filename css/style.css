@@ -1,0 +1,27 @@
+body {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+h3 {
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  padding: 12px 22px;
+  font-size: 18px;
+}
+
+
+  .jumbotron {
+    border-bottom: 0;
+  }
